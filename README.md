@@ -13,7 +13,7 @@ This two camera setup was used to see the fiber alignment for the butt-coupling 
 ### RotatingCamera
 This is a single USB camera mount with variable rotation. It can be used to view the reflection of the fiber in order to insure the fiber is perpendicular to the mirror. 
 
-###ChipHolder
+### ChipHolder
 This simple assembly is used as a mounting feature for the fiber holder chip. It can be used to mount both the horizontal optical post as well as to sit stably on the translation stage.
 
 ## Parts Organization
